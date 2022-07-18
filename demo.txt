@@ -1,4 +1,7 @@
+
 hello,
  demo 1
 
 demo 2 
+
+demo two commit and conflict code
